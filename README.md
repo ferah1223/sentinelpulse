@@ -1,8 +1,10 @@
 # SentinelPulse
 
+> **Powered by Xiaomi MiMo V2.5** — DeFi Protocol Monitor
+
 Real-time DeFi protocol monitoring platform. Track TVL, detect anomalies, and monitor whale movements across 100+ protocols and 15+ chains.
 
-![Dashboard](https://opengraph.githubassets.com/1/ferah1223/sentinelpulse)
+![Dashboard](public/screenshot-dashboard.png)
 
 ## Features
 
@@ -29,6 +31,12 @@ Real-time DeFi protocol monitoring platform. Track TVL, detect anomalies, and mo
 | [CoinGecko](https://coingecko.com) | Token prices, market caps | 15s |
 | [DeFiLlama](https://defillama.com) | TVL, protocol data | 30s |
 
+## Screenshots
+
+![Dashboard](public/screenshot-dashboard.png)
+
+![Agent Monitor](public/screenshot-agent.png)
+
 ## Getting Started
 
 ```bash
@@ -40,16 +48,6 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) to see the dashboard.
 
-## Pages
-
-| Page | Description |
-|------|-------------|
-| Dashboard | Overview with TVL, alerts, and protocol stats |
-| TVL Monitor | Sortable protocol table with chain filtering |
-| Whale Watch | Large transaction feed with risk scoring |
-| Anomaly Explorer | Detected anomalies with reasoning |
-| Settings | Monitoring config |
-
 ---
 
-Built for Xiaomi MiMo 100T Challenge
+**Powered by Xiaomi MiMo V2.5**
