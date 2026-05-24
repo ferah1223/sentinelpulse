@@ -1,6 +1,8 @@
-# 🛡️ SentinelPulse
+# SentinelPulse
 
-<div align="center">
+> **Powered by Xiaomi MiMo V2.5** — AI-Powered DeFi Protocol Monitor
+
+![SentinelPulse Dashboard](public/screenshot-dashboard.png)
 
 ![SentinelPulse Banner](https://img.shields.io/badge/SentinelPulse-AI--Powered%20DeFi%20Monitoring-00FFB2?style=for-the-badge&logo=shield)
 
